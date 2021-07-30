@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "804533989018",
+    "firebase_url": "https://uberclone-2d211-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uberclone-2d211",
+    "storage_bucket": "uberclone-2d211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804533989018:android:7b026ee817e78a179f7923",
+        "android_client_info": {
+          "package_name": "com.santosenoque.cabdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804533989018-tn4rb7fs7lg2tbvq21a1iujddk2cicf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santosenoque.cabdriver",
+            "certificate_hash": "572ca82fef476a9cfc9753e98773171bfaefd0cd"
+          }
+        },
+        {
+          "client_id": "804533989018-7r8abe1j3cv6gvaesdbg1qum5f3fru4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBba9F-qB-_adEVsA5GYEJGRuu0upcNqFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804533989018-7r8abe1j3cv6gvaesdbg1qum5f3fru4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804533989018:android:8030149b01188e5e9f7923",
+        "android_client_info": {
+          "package_name": "com.santosenoque.uber_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804533989018-9kddgdvrdg7e1473hamo4h7l1se2qd2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santosenoque.uber_clone",
+            "certificate_hash": "572ca82fef476a9cfc9753e98773171bfaefd0cd"
+          }
+        },
+        {
+          "client_id": "804533989018-7r8abe1j3cv6gvaesdbg1qum5f3fru4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBba9F-qB-_adEVsA5GYEJGRuu0upcNqFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804533989018-7r8abe1j3cv6gvaesdbg1qum5f3fru4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
